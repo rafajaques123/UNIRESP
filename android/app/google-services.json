@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "170532950348",
+    "firebase_url": "https://uniresp-338ed.firebaseio.com",
+    "project_id": "uniresp-338ed",
+    "storage_bucket": "uniresp-338ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170532950348:android:9798aaafe5f174d07e7fe9",
+        "android_client_info": {
+          "package_name": "com.example.uniresp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170532950348-erbbojbrirgj4gsv2timf7dq6j6olrve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uniresp",
+            "certificate_hash": "e158a3ffb4905e7894abceaa9df557a7a5ae333d"
+          }
+        },
+        {
+          "client_id": "170532950348-44tolhj2et0i0vvaof1tl8ia4k1l4fd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YYm7pIH6hgksXClFy8K4Lr4JM7QR7Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170532950348-44tolhj2et0i0vvaof1tl8ia4k1l4fd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
